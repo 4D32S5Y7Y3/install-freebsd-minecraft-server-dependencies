@@ -1,0 +1,5 @@
+#!/usr/local/bin/bash
+
+# This should install all the dependencies of Minecraft Server
+
+doas pkg install alsa-lib brotli dejavu encodings expat font-bh-ttf font-misc-ethiopic font-misc-meltho fontconfig freetype2 gettext-runtime giflib glib graphite2 harfbuzz indexinfo javavmwrapper jbigkit jpeg-turbo lcms2 libICE libSM libX11 libXau libXdmcp libXext libXfixes libXi libXrandr libXrender libXt libXtst libdeflate libffi libfontenc libiconv liblz4 libxcb mkfontscale mpdecimal openjdk17 pcre2 png py310-packaging python310 python39 readline tiff xorg-fonts-truetype xorgproto zstd
